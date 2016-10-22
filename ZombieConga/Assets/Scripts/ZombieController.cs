@@ -38,4 +38,8 @@ public class ZombieController : MonoBehaviour {
 			                 Quaternion.Euler( 0, 0, targetAngle ), 
 			                 turnSpeed * Time.deltaTime );
 	}
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("Hit " + other.gameObject);
+    }
 }
