@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: b94633327c12a6440b15e53d42c8e542
+timeCreated: 1477648884
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombie_idle_0
+    21300002: zombie_idle_1
+    21300004: zombie_idle_2
+    21300006: zombie_idle_3
+    21300008: zombie_idle_4
+    21300010: zombie_idle_5
+    21300012: zombie_idle_6
+    21300014: zombie_idle_7
+    21300016: zombie_idle_8
+    21300018: zombie_idle_9
+    21300020: zombie_idle_10
+    21300022: zombie_idle_11
+    21300024: zombie_idle_12
+    21300026: zombie_idle_13
+    21300028: zombie_idle_14
+    21300030: zombie_idle_15
+    21300032: zombie_idle_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zombie_idle_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 268
+        width: 194
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 268
+        width: 194
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 268
+        width: 196
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 269
+        width: 197
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 270
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 272
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 273
+        width: 199
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 275
+        width: 200
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 276
+        width: 200
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_9
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 276
+        width: 199
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 198
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 33
+        width: 196
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 32
+        width: 196
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_13
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 30
+        width: 195
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 28
+        width: 195
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 27
+        width: 194
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 26
+        width: 194
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
