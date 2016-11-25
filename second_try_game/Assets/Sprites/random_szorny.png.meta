@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 615c642bfd1a43741aaa1f8457c2d844
-timeCreated: 1480011116
+guid: 624712a64e750384f938d4fe713c9884
+timeCreated: 1480078782
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: random_szorny_0
-    21300002: random_szorny_1
-    21300004: random_szorny_2
-    21300006: random_szorny_3
-    21300008: random_szorny_4
-    21300010: random_szorny_5
-    21300012: random_szorny_6
+    21300002: random_szorny_4
+    21300004: random_szorny_1
+    21300006: random_szorny_5
+    21300008: random_szorny_2
+    21300010: random_szorny_6
+    21300012: random_szorny_3
     21300014: random_szorny_7
   serializedVersion: 2
   mipmaps:
@@ -61,82 +61,82 @@ TextureImporter:
     - name: random_szorny_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 201
-        width: 42
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: random_szorny_1
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 195
-        width: 42
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: random_szorny_2
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 194
-        width: 43
+        x: 151
+        y: 146
+        width: 38
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: random_szorny_3
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 195
-        width: 42
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: random_szorny_4
       rect:
         serializedVersion: 2
-        x: 3
-        y: 153
-        width: 42
-        height: 29
+        x: 199
+        y: 148
+        width: 38
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: random_szorny_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: random_szorny_5
       rect:
         serializedVersion: 2
-        x: 52
-        y: 147
+        x: 196
+        y: 100
         width: 42
-        height: 38
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: random_szorny_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: random_szorny_6
       rect:
         serializedVersion: 2
-        x: 100
-        y: 146
-        width: 43
+        x: 199
+        y: 52
+        width: 38
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: random_szorny_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: random_szorny_7
       rect:
         serializedVersion: 2
-        x: 148
-        y: 147
-        width: 42
-        height: 38
+        x: 202
+        y: 3
+        width: 29
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

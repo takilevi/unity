@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 2d8144428a385224d8c87ab64a64e249
-timeCreated: 1480014873
+guid: 9113b286fd5b29e45a28e805d86b8f86
+timeCreated: 1480078143
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
-    21300000: human_0
-    21300002: human_1
-    21300004: human_2
-    21300006: human_3
-    21300008: human_4
-    21300010: human_5
+    21300000: human2_1
+    21300002: human2_2
+    21300004: human2_3
+    21300006: human2_5
+    21300008: human2_6
+    21300010: human2_7
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -56,65 +56,65 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: human_0
+    - name: human2_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 458
-        width: 85
-        height: 62
+        x: 169
+        y: 155
+        width: 100
+        height: 84
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_1
+    - name: human2_2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 420
-        width: 85
-        height: 100
+        x: 301
+        y: 146
+        width: 101
+        height: 86
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_2
+    - name: human2_3
       rect:
         serializedVersion: 2
-        x: 30
-        y: 301
-        width: 86
-        height: 101
+        x: 458
+        y: 140
+        width: 62
+        height: 85
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_3
+    - name: human2_5
       rect:
         serializedVersion: 2
-        x: 135
-        y: 328
-        width: 95
-        height: 64
+        x: 179
+        y: 48
+        width: 101
+        height: 75
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_4
+    - name: human2_6
       rect:
         serializedVersion: 2
-        x: 26
-        y: 169
-        width: 84
-        height: 100
+        x: 328
+        y: 35
+        width: 64
+        height: 95
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_5
+    - name: human2_7
       rect:
         serializedVersion: 2
-        x: 142
-        y: 179
-        width: 75
-        height: 101
+        x: 420
+        y: 40
+        width: 100
+        height: 85
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
