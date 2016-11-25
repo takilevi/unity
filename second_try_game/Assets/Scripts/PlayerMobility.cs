@@ -6,11 +6,16 @@ public class PlayerMobility : MonoBehaviour {
 	public float speed;
 	Animator anim;
 	void Start(){
-		anim = GetComponent<Animator> ();
+		anim = GetComponent<Animator>();
 	}
 	void Update(){
 		if (Input.GetAxis("Fire1") != 0) {
+			Debug.Log("clicked");
 			anim.SetTrigger("Attack");}
+		if (Input.GetKey(KeyCode.R)) {
+			Debug.Log("reloaded");
+			anim.SetTrigger("Reload");
+		}
 	}
 	void FixedUpdate () {
 
