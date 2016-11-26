@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: be270a7296d6fc24b875f7eb8e988fe6
+timeCreated: 1477648826
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rifle_reload_0
+    21300002: rifle_reload_1
+    21300004: rifle_reload_2
+    21300006: rifle_reload_3
+    21300008: rifle_reload_4
+    21300010: rifle_reload_5
+    21300012: rifle_reload_6
+    21300014: rifle_reload_7
+    21300016: rifle_reload_8
+    21300018: rifle_reload_9
+    21300020: rifle_reload_10
+    21300022: rifle_reload_11
+    21300024: rifle_reload_12
+    21300026: rifle_reload_13
+    21300028: rifle_reload_14
+    21300030: rifle_reload_15
+    21300032: rifle_reload_16
+    21300034: rifle_reload_17
+    21300036: rifle_reload_18
+    21300038: rifle_reload_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rifle_reload_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 272
+        width: 261
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 270
+        width: 262
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 269
+        width: 265
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 267
+        width: 267
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_4
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 265
+        width: 268
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_5
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 264
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_6
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 264
+        width: 269
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_7
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 264
+        width: 268
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_8
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 265
+        width: 268
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_9
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 265
+        width: 267
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28
+        width: 266
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 28
+        width: 263
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_12
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 28
+        width: 260
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_13
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 28
+        width: 259
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_14
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 28
+        width: 259
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_15
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 30
+        width: 259
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_16
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 31
+        width: 260
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_17
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 33
+        width: 260
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_18
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 33
+        width: 261
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_reload_19
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 35
+        width: 262
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

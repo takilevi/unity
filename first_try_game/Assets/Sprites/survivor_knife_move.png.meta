@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 93701c9111015bb48b62f9e57d281bbd
+timeCreated: 1477345128
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: survivor_0
+    21300002: survivor_1
+    21300004: survivor_10
+    21300006: survivor_5
+    21300008: survivor_11
+    21300010: survivor_12
+    21300012: survivor_13
+    21300014: survivor_6
+    21300016: survivor_14
+    21300018: survivor_15
+    21300020: survivor_16
+    21300022: survivor_7
+    21300024: survivor_17
+    21300026: survivor_18
+    21300028: survivor_19
+    21300030: survivor_8
+    21300032: survivor_2
+    21300034: survivor_3
+    21300036: survivor_4
+    21300038: survivor_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: survivor_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 952
+        width: 215
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 952
+        width: 215
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 946
+        width: 232
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_5
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 952
+        width: 224
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 717
+        width: 232
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 719
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_13
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 720
+        width: 229
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_6
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 722
+        width: 227
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 493
+        width: 227
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 494
+        width: 225
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 496
+        width: 222
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_7
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 491
+        width: 229
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 266
+        width: 221
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 266
+        width: 218
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 265
+        width: 216
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 261
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 37
+        width: 220
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 38
+        width: 222
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: survivor_9
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 30
+        width: 232
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

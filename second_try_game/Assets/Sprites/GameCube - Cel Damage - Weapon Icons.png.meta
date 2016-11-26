@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: e7675766a394214429458dc60e218821
+timeCreated: 1480007946
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameCube - Cel Damage - Weapon Icons_0
+    21300002: GameCube - Cel Damage - Weapon Icons_1
+    21300004: GameCube - Cel Damage - Weapon Icons_2
+    21300006: GameCube - Cel Damage - Weapon Icons_3
+    21300008: GameCube - Cel Damage - Weapon Icons_4
+    21300010: GameCube - Cel Damage - Weapon Icons_6
+    21300012: GameCube - Cel Damage - Weapon Icons_7
+    21300014: GameCube - Cel Damage - Weapon Icons_8
+    21300016: GameCube - Cel Damage - Weapon Icons_9
+    21300018: GameCube - Cel Damage - Weapon Icons_10
+    21300020: GameCube - Cel Damage - Weapon Icons_11
+    21300022: GameCube - Cel Damage - Weapon Icons_13
+    21300024: GameCube - Cel Damage - Weapon Icons_14
+    21300026: GameCube - Cel Damage - Weapon Icons_15
+    21300028: GameCube - Cel Damage - Weapon Icons_16
+    21300030: GameCube - Cel Damage - Weapon Icons_19
+    21300032: GameCube - Cel Damage - Weapon Icons_20
+    21300034: GameCube - Cel Damage - Weapon Icons_21
+    21300036: GameCube - Cel Damage - Weapon Icons_22
+    21300038: GameCube - Cel Damage - Weapon Icons_23
+    21300040: GameCube - Cel Damage - Weapon Icons_24
+    21300042: GameCube - Cel Damage - Weapon Icons_26
+    21300044: GameCube - Cel Damage - Weapon Icons_27
+    21300046: GameCube - Cel Damage - Weapon Icons_28
+    21300048: GameCube - Cel Damage - Weapon Icons_29
+    21300050: GameCube - Cel Damage - Weapon Icons_30
+    21300052: GameCube - Cel Damage - Weapon Icons_32
+    21300054: GameCube - Cel Damage - Weapon Icons_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GameCube - Cel Damage - Weapon Icons_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 398
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 399
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 398
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 397
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 395
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 344
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 344
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 342
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 344
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 282
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 280
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 279
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 220
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 220
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 216
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 216
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 220
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 159
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 155
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 155
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Cel Damage - Weapon Icons_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 95
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
