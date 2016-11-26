@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 9c7d891655ae98642b71f82346dc1a25
+timeCreated: 1477643171
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rifle_move_0
+    21300002: rifle_move_1
+    21300004: rifle_move_2
+    21300006: rifle_move_3
+    21300008: rifle_move_4
+    21300010: rifle_move_5
+    21300012: rifle_move_6
+    21300014: rifle_move_7
+    21300016: rifle_move_8
+    21300018: rifle_move_9
+    21300020: rifle_move_10
+    21300022: rifle_move_11
+    21300024: rifle_move_12
+    21300026: rifle_move_13
+    21300028: rifle_move_14
+    21300030: rifle_move_15
+    21300032: rifle_move_16
+    21300034: rifle_move_17
+    21300036: rifle_move_18
+    21300038: rifle_move_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rifle_move_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 252
+        width: 293
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 252
+        width: 290
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 252
+        width: 277
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_3
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 252
+        width: 266
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_4
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 252
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_5
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 252
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_6
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 253
+        width: 259
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_7
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 254
+        width: 261
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_8
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 254
+        width: 272
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_9
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 254
+        width: 282
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 28
+        width: 285
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 28
+        width: 281
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 28
+        width: 273
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_13
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 28
+        width: 263
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_14
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 27
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_15
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 26
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_16
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 26
+        width: 259
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_17
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 26
+        width: 265
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_18
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 26
+        width: 278
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_move_19
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 26
+        width: 288
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

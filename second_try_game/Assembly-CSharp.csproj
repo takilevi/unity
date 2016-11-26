@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\ExplodionScript.cs" />
      <Compile Include="Assets\Scripts\FireScript.cs" />
+     <Compile Include="Assets\Scripts\LevelManager.cs" />
      <Compile Include="Assets\Scripts\PlayerMobility.cs" />
      <Compile Include="Assets\Scripts\ScreenReltaivePosition.cs" />
  <Reference Include="UnityEngine.UI">

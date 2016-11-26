@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: acd01f9c5f0560447bfe0e28b4253ea9
+timeCreated: 1477647708
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rifle_idle_normal_0
+    21300002: rifle_idle_normal_1
+    21300004: rifle_idle_normal_2
+    21300006: rifle_idle_normal_3
+    21300008: rifle_idle_normal_4
+    21300010: rifle_idle_normal_5
+    21300012: rifle_idle_normal_6
+    21300014: rifle_idle_normal_7
+    21300016: rifle_idle_normal_8
+    21300018: rifle_idle_normal_9
+    21300020: rifle_idle_normal_10
+    21300022: rifle_idle_normal_11
+    21300024: rifle_idle_normal_12
+    21300026: rifle_idle_normal_13
+    21300028: rifle_idle_normal_14
+    21300030: rifle_idle_normal_15
+    21300032: rifle_idle_normal_16
+    21300034: rifle_idle_normal_17
+    21300036: rifle_idle_normal_18
+    21300038: rifle_idle_normal_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rifle_idle_normal_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 253
+        width: 261
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 253
+        width: 262
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_2
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 254
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_3
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 254
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 254
+        width: 259
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_5
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 254
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_6
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 254
+        width: 259
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_7
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 255
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_8
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 255
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_9
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 255
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28
+        width: 258
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 28
+        width: 259
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 28
+        width: 259
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 28
+        width: 259
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_14
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 27
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_15
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 27
+        width: 260
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_16
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 26
+        width: 259
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_17
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 26
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_18
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 26
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rifle_idle_normal_19
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 26
+        width: 261
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
