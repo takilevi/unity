@@ -59,4 +59,11 @@ public class PlayerMobility : MonoBehaviour {
 		// 4
 		transform.position = newPosition;
 	}
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		Debug.Log ("auch");
+		Debug.Log (other.gameObject.name);
+		Application.LoadLevel("game_over_scene");
+
+	}
 }
